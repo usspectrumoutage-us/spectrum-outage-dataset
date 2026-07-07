@@ -28,7 +28,7 @@ Explore a **200-record sample** of this dataset in your browser — no download 
 
 | Demo | Description | Link |
 |------|-------------|------|
-| **Live outage stats** | Nationwide counters from the community dataset | [View on CodePen](https://codepen.io/usspectrumoutage-us/pen/019f3ca9-c594-73b0-abcb-9bab450c4a00) |
+| **Live outage stats** | Nationwide counters from the community dataset | [View on CodePen](https://codepen.io/usspectrumoutage-us/pen/019f3ca9-c594-73b0-abcb-9bab450c4a00)  [view on JsFiddle](https://jsfiddle.net/usspectrumoutage/eyrhf5q0) |
 | **City outage checker** | Pick a US city and see report totals | [View on CodePen](https://codepen.io/usspectrumoutage-us/pen/019f3caa-ab9b-73fd-a60e-27fc8b15f579) |
 
 Download the complete ~5,000-record release from the `data/` folder below or from [spectrumoutage.us/support-us](https://www.spectrumoutage.us/support-us).
