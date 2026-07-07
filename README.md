@@ -22,6 +22,17 @@ If you use this dataset in research, analysis, products, or publications, please
 | **Formats** | JSON, CSV |
 | **Fields** | `created_at`, `city`, `state`, `zip_code`, `service`, `note` |
 
+## Try a Sample on CodePen
+
+Explore a **200-record sample** of this dataset in your browser — no download required. Each demo links back to [SpectrumOutage.us](https://www.spectrumoutage.us/) for live data and the full dataset.
+
+| Demo | Description | Link |
+|------|-------------|------|
+| **Live outage stats** | Nationwide counters from the community dataset | [View on CodePen](https://codepen.io/usspectrumoutage-us/pen/019f3ca9-c594-73b0-abcb-9bab450c4a00) |
+| **City outage checker** | Pick a US city and see report totals | [View on CodePen](https://codepen.io/usspectrumoutage-us/pen/019f3caa-ab9b-73fd-a60e-27fc8b15f579) |
+
+Download the complete ~5,000-record release from the `data/` folder below or from [spectrumoutage.us/support-us](https://www.spectrumoutage.us/support-us).
+
 ## Files
 
 ```
